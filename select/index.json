@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "イイじゃん",
+  "base_artist": "M!LK",
+  "createdAt": "2026-01-07T17:48:26.327859Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "イイじゃん",
+      "artist": "M!LK",
+      "has_synced": false,
+      "path": "select/pl_01_イイじゃん_M!LK.txt"
+    }
+  ]
+}
